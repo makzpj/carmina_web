@@ -3,7 +3,7 @@
 *Touch controls + standalone detection + offline-cache for your PICO8 games*
 
 
-## Live Demo: [Carmina's World](https://github.com/makzpj/carmina_web)
+## Live Demo: [Carmina's World](https://headjump.github.io/pico8_html_template/)
 
 [<img src="https://github.com/headjump/pico8_html_template/blob/gh-pages/html-demo.jpg?raw=true">](https://headjump.github.io/pico8_html_template/)
 
