@@ -1,22 +1,12 @@
 # Fork from PICO8 HTML Template!
 
-*Touch controls + standalone detection + offline-cache for your PICO8 games*
-
-
 ## Live Demo: [Carmina's World](https://makzpj.github.io/carmina_web/)
 
-[<img src="https://github.com/makzpj/carmina_web/carmina.png?raw=true">](https://makzpj.github.io/carmina_web/)
+[<img src="https://makzpj.github.io/carmina_web/carmina.png?raw=true">](https://makzpj.github.io/carmina_web/)
 
-Open it on your smartphone, it works fine :)
+I forked this for my own game Carmina's World.
 
 This is a fork from pico8_html_template [Demo-game sourcecode](https://github.com/headjump/pico8_html_template--demo_game)
-
-
-## About and why
-
-In my opinion [PICO8](https://www.lexaloffle.com/pico-8.php) is the perfect fit for mobile devices - with it's small resolution, input restrictions and good performance. The square screen leaves enough space for touch controls.
-
-The existing HTML-export however, by the time of writing, doesn't come with touch controls. Also, the touch controls provided on the PICO8 site itself never really worked for me.
 
 
 ## File structure
