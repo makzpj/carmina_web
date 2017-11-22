@@ -1,4 +1,4 @@
-# Fork from PICO8 HTML Template!
+# Forked from PICO8 HTML Template!
 
 ## Live Demo: [Carmina's World](https://makzpj.github.io/carmina_web/)
 
