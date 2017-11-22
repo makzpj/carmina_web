@@ -5,11 +5,11 @@
 
 ## Live Demo: [Carmina's World](https://makzpj.github.io/carmina_web/)
 
-[<img src="https://github.com/headjump/pico8_html_template/blob/gh-pages/html-demo.jpg?raw=true">](https://headjump.github.io/pico8_html_template/)
+[<img src="https://github.com/makzpj/carmina_web/carmina.png?raw=true">](https://headjump.github.io/pico8_html_template/)
 
 Open it on your smartphone, it works fine :)
 
-Check out the [Demo-game sourcecode](https://github.com/headjump/pico8_html_template--demo_game) if you like.
+This is a fork from pico8_html_template [Demo-game sourcecode](https://github.com/headjump/pico8_html_template--demo_game)
 
 
 ## About and why
