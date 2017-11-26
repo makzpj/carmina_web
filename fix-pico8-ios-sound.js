@@ -44,8 +44,9 @@
     var buffer = ctx.createBuffer(1, 1, 22050)
     var source = ctx.createBufferSource()
     source.connect(ctx.destination)
-    if (source.noteOn) source.noteOn(0)
-    else source.start(0)
+    //if (source.noteOn) source.noteOn(0)
+    //else source.start(0)
+    source.noteOn(0)
 
     // dynamically load original script
     var s = document.createElement('script')
