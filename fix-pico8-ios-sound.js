@@ -18,7 +18,7 @@
 
   // create overlay
   var o = document.createElement('div')
-  o.innerHTML = 'tap screen to load game'
+  o.innerHTML = 'Tap screen to load game'
   o.style.cssText = [
     'position: fixed',
     'top: 0',
@@ -44,10 +44,9 @@
     var buffer = ctx.createBuffer(1, 1, 22050)
     var source = ctx.createBufferSource()
     source.connect(ctx.destination)
-    //if (source.noteOn) source.noteOn(0)
-    //else source.start(0)
-    source.noteOn(0)
-
+    if (source.noteOn) source.noteOn(0)
+    else source.start(0)
+    
     // dynamically load original script
     var s = document.createElement('script')
     s.setAttribute('src', file)
